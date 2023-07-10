@@ -1,0 +1,11 @@
+{
+  "name": "bot.py",
+  "version": "1.0.0",
+  "description": "This repo contains the codebase for as well as the contextual information (in form of a pdf) which powers the AI assistant used by the Apecoin DAO among others.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
