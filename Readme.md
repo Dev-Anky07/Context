@@ -27,7 +27,6 @@ pip3 install pinecone-client
 pip3 install openai
 pip3 install tiktoken
 pip3 install unstructured
-
 ```
 ## Configure Variables :
 
